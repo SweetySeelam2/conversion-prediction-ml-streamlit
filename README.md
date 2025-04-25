@@ -3,7 +3,7 @@
 
 ------
 
-**Conversion Prediction for Marketing Optimization using Logistic Regression (Streamlit App Deployment)**
+# Conversion Prediction for Marketing Optimization using Logistic Regression (Streamlit App Deployment)
 
 ---
 

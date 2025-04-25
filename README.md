@@ -165,7 +165,6 @@ SOFTWARE.
 ---
 
 > Created by [Sweety Seelam](https://github.com/SweetySeelam2) | 2025
-> Name: Sweety Seelam
-> Email: sweetyseelam2@gmail.com
-> LinkedIn: https://www.linkedin.com/in/sweetyrao670/
+> Email: sweetyseelam2@gmail.com                       
+> LinkedIn: https://www.linkedin.com/in/sweetyrao670/                       
 > My Portfolio: https://sweetyseelam2.github.io/SweetySeelam.github.io/

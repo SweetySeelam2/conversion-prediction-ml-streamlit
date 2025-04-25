@@ -1,7 +1,7 @@
 
 [![View App - Streamlit Cloud](https://img.shields.io/badge/Launch-App-brightgreen?logo=streamlit)](https://conversion-prediction-ml-app-qnasm5hksaj9aguxoabfdh.streamlit.app/)
 
---
+------
 
 **Conversion Prediction for Marketing Optimization using Logistic Regression (Streamlit App Deployment)**
 
